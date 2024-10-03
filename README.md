@@ -92,6 +92,18 @@ cd client
 npm start
 ```
 
+## 📱 Screenshots
+A sneak peek of what's inside.
+
+![Insta sign up](https://github.com/user-attachments/assets/f5846043-f37b-4e84-a0da-8de5ef4dd3b8)
+
+
+
+## ✒️ Contact
+Feel free to reach me through the below handles if you'd like to contact me.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-ranjan-bharat/)
+
 
 
 
