@@ -95,8 +95,10 @@ npm start
 ## 📱 Screenshots
 A sneak peek of what's inside.
 
-![Insta sign up](https://github.com/user-attachments/assets/f5846043-f37b-4e84-a0da-8de5ef4dd3b8)
-
+![Insta feed 8](https://github.com/user-attachments/assets/b40fea96-3012-4713-b7ef-f1c565e84b01)
+![Insta sign up](https://github.com/user-attachments/assets/3c2eb86a-7a54-4580-9391-08170b50d427)
+![Insta photo posting bird](https://github.com/user-attachments/assets/caf72b67-f67a-4bbe-ad45-b0ba67c15eb4)
+![Insta profile](https://github.com/user-attachments/assets/e5d37fdc-73f1-4ea6-99a3-f130cafe01b5)
 
 
 ## ✒️ Contact
