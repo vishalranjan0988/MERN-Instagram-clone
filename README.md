@@ -48,9 +48,9 @@ This is Instagram clone with features like user registration, JWT-secured login,
 
 ## Installation
 
-**1. Clone the repository:**
+**1. Clone the repository using the link:**
 ```
-git clone https://github.com/vishalranjan0988/MERN-Instagram-clone.git
+https://github.com/vishalranjan0988/MERN-Instagram-clone.git
 ```
 **2. Install server-side dependencies:**
 ``` 
